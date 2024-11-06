@@ -1,0 +1,1 @@
+In this repo, I am learning the fundamentals of pytorch; the introduction, tensors, loading and normalizing datasets, building model layers, automatic differentiation, optimization loop, loading and running model predictions, and finally the full model building process.
